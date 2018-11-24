@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+    "typescript": "3.3.0-dev.20181122"
+  },
+  "renovate": {
+    "extends": [
+      "config:base",
+      ":followTag(typescript, next)"
+      ]
+      }
