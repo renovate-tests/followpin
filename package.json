@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-    "typescript": "3.2.0-dev.20181114"
+    "typescript": "3.3.0-dev.20190105"
   },
   "renovate": {
   "extends": [
